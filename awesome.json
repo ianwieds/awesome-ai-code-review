@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "AI Code Review",
+  "repo": "ianwieds/awesome-ai-code-review",
+  "tagline": "AI code review bots, review agents, security reviewers and the tooling that puts them in a pull request.",
+  "scope": "It is about AI reviewing code changes, not a general coding assistant or linter.",
+  "accent": "84CC16",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a reviewer bot slides down a rail beside a tall diff panel, scanning each added and removed line with a beam, comment cards slide out at flagged lines while three checks pass in turn, then an approval stamp lands on the panel."
 }

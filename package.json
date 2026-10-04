@@ -1,8 +1,8 @@
 {
-  "name": "awesome-template",
+  "name": "awesome-ai-code-review",
   "version": "1.0.0",
   "private": true,
-  "description": "A GitHub template for a curated awesome list, with checked pull requests.",
+  "description": "AI code review bots, review agents, security reviewers and the tooling that puts them in a pull request.",
   "license": "CC0-1.0",
   "scripts": {
     "test": "node --test \"tests/*.test.js\"",
