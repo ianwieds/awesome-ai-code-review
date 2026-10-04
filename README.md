@@ -60,6 +60,7 @@ AI code review puts a model in the reviewer's seat: it reads a code change, comm
 - [Gemini Code Assist on GitHub](https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code) - GitHub app that has Gemini summarize and review pull requests.
 - [GitHub Copilot code review](https://docs.github.com/en/copilot/concepts/agents/code-review) - Copilot reviews pull requests on GitHub and suggests fixes you can apply in place.
 - [GitLab Duo Code Review](https://docs.gitlab.com/user/project/merge_requests/duo_in_merge_requests/) - GitLab Duo reviews a merge request when you request it as a reviewer.
+- [Orbi](https://github.com/orbi-build/orbi) - Runs coding agents on GitHub issues; a separate review session must approve each PR before merge.
 - [Windsurf PR Reviews](https://docs.devin.ai/desktop/windsurf-reviews/windsurf-reviews) - GitHub app that reviews pull requests, edits titles and leaves feedback as comments.
 
 ## Open-source review bots
