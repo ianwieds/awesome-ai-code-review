@@ -48,6 +48,7 @@ AI code review puts a model in the reviewer's seat: it reads a code change, comm
 - [Optibot](https://getoptimal.ai) - Reviews GitHub and GitLab pull requests with full codebase context and security scanning.
 - [Qodo Git Plugin](https://www.qodo.ai/features/qodo-git/) - Qodo's review agent that comments on pull requests and drafts their descriptions.
 - [Revieko](https://synqra.tech/revieko) - Flags repo-specific architecture drift in pull requests and points reviewers to the lines.
+- [Sigma](https://sigma.mnemoverse.com) - Reviews pull requests on GitHub, explains its findings, and supports discussion and rechecks.
 - [Sourcery](https://www.sourcery.ai) - Reviews GitHub and GitLab pull requests with bug findings, summaries and one-click fixes.
 - [What The Diff](https://whatthediff.ai) - GitHub and GitLab app that explains the changes in a pull request in plain English.
 - [Zenable](https://www.zenable.io) - Guardrails that check AI-written code against team rules in the IDE and on pull requests.
