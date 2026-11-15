@@ -162,10 +162,10 @@ AI code review puts a model in the reviewer's seat: it reads a code change, comm
 - [Awesome AI Code Reviews](https://github.com/kodustech/awesome-ai-code-review) - List of review agents, IDE assistants, papers and benchmarks from the Kodus team.
 - [Awesome CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit) - CodeRabbit's official list of starters and resources for its reviewer.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
