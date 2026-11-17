@@ -45,6 +45,7 @@ AI code review puts a model in the reviewer's seat: it reads a code change, comm
 - [heygrc](https://heygrc.com) - Reviews pull requests for changes that put a compliance control such as SOC 2 at risk.
 - [Korbit](https://www.korbit.ai) - Reviews GitHub and Bitbucket pull requests with context from the rest of the codebase.
 - [Macroscope](https://macroscope.com) - Reviews pull requests for bugs and writes PR descriptions and team status updates.
+- [MergeJudge](https://mergejudge.si) - GitHub App and self-hosted Action that reviews PRs and sorts them into auto, review or block lanes.
 - [Optibot](https://getoptimal.ai) - Reviews GitHub and GitLab pull requests with full codebase context and security scanning.
 - [Qodo Git Plugin](https://www.qodo.ai/features/qodo-git/) - Qodo's review agent that comments on pull requests and drafts their descriptions.
 - [Revieko](https://synqra.tech/revieko) - Flags repo-specific architecture drift in pull requests and points reviewers to the lines.
