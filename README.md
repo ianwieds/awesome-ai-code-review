@@ -137,6 +137,7 @@ AI code review puts a model in the reviewer's seat: it reads a code change, comm
 - [Claude Code PR Review Toolkit](https://github.com/anthropics/claude-code/tree/main/plugins/pr-review-toolkit) - Six review agents for comments, tests, error handling, types and simplification.
 - [CodeRabbit Skills](https://github.com/coderabbitai/skills) - Skills and plugins that let coding agents run CodeRabbit reviews on local changes.
 - [Greptile Skills](https://github.com/greptileai/skills) - Agent skills that run Greptile reviews, fix the comments and loop until the PR is clean.
+- [How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Adapts security checks from open-source reviews to PR diffs and records local results.
 - [Jev Review](https://github.com/NiazMorshed2007/jev-review) - Local MCP server that gives coding agents quality scores on the code they write.
 - [Multi-MCP](https://github.com/religa/multi_mcp) - MCP server that runs code reviews and comparisons across several models for Claude Code.
 - [Qodo Skills](https://github.com/qodo-ai/qodo-skills) - Qodo's agent skills for local review and for resolving PR review comments.
